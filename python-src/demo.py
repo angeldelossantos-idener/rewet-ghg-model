@@ -1,7 +1,7 @@
 from scipy.optimize import differential_evolution
 
 import numpy as np
-import pandas as pd
+# import pandas as pd
 
 
 def ghg_model(x):
